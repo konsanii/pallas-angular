@@ -1,0 +1,37 @@
+
+.card{
+    height: 40%;
+    width: 40%;
+    background-color: #021859;
+}
+
+.a{
+    width: auto;
+}
+
+.games_principal{
+    display: flex;
+    justify-content: space-around;
+    margin:5%;
+    margin-bottom: 300px ;
+}
+
+.card-title{
+    color: aliceblue;
+}
+
+.card-text{
+    color: aliceblue;
+}
+
+.card-img-right{
+    height: 460px;
+}
+
+.games{
+    background-color: #010626;
+}
+
+.games_titulo{
+    color: aliceblue;
+}
